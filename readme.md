@@ -1,6 +1,6 @@
-# Instructions for Running the Blank React Native App with TypeScript
+# Instructions for Running the Login Screen UI  with Expo React Native App with TypeScript
 
-To get started with the blank React Native app using TypeScript, follow these steps:
+To get started with follow these steps:
 
 1. Install the required dependencies:
 
